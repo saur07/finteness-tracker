@@ -1,1 +1,1 @@
-# finteness-tracker
+# fintness-tracker
